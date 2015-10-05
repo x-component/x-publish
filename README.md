@@ -5,8 +5,6 @@ This module has just a little utility script for all x-component modules
 
 it generates the README.md
 
-and maintains a component.json
-
 Usage
 -----
 use x-publish as a devDependency in the package.json
